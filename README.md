@@ -6,4 +6,5 @@ It combines gene expressions and methylation data from the Illumina 27 dataset w
 This repository contains the documentation in PDF format.
 
 📄 [Open the full documentation (PDF)](./Final report Bioinfo.pdf)
+
 📄 [Open the presentation (PDF)](./Multi-GNN for LC Biomarkers.pdf)
